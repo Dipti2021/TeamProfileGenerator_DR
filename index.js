@@ -102,7 +102,7 @@ const quest = [
         {
             type: "input",
             name: "school",
-            message: "Please enter the name of the school from where the intern has studied.If he/she is still not completed his school then right 'Not Applicable' : ",
+            message: "Please enter the name of the school from where the intern has studied.If he/she has still not completed his school then type 'Not Applicable' : ",
             validate: school => {
                 if (school) {
                   return true;
