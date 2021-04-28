@@ -55,7 +55,7 @@ node index
  
  
  ## Installations
-   [The URL of the Github repo](https://github.com/Dipti2021/README-generator-inquirer_DR)
+   [The URL of the Github repo](https://github.com/Dipti2021/TeamProfileGenerator_DR)
    
 
  ## Questions
