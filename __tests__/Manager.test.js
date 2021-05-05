@@ -4,7 +4,7 @@ const Employee = require("../lib/Employee");
 test("Create and set the office contact number", () => {
   const team_val = 9999;
   const emp = new Manager("x", 1, "example@mail.com", team_val);
-  expect(emp.officeNumber).toBe(team_val);
+  expect(emp.emp_office_cont_number).toBe(team_val);
 });
 
 test("Return the role of Manager", () => {
